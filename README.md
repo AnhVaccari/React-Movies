@@ -1,4 +1,4 @@
-# Sauvegarder les films coup de coeur
+# Application de recherche de films avec possibilité de mettre en coup de coeur
 
 ## Demo
 
